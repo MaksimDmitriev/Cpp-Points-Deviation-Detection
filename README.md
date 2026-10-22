@@ -1,7 +1,6 @@
 # C++ Points Deviation Detection
 
-Implements the `detectDefects()` exercise from the
-[shared conversation](https://chatgpt.com/share/6ad98a18-a9f0-83ec-8a9b-11e954f59cef).
+Implements a C++17 `detectDefects()` exercise for detecting point deviations.
 
 The function returns points where `std::abs(point.z - expectedZ) > tolerance`,
 preserving their original order. A point exactly at the tolerance is accepted.
