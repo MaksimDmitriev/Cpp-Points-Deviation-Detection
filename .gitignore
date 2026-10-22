@@ -1,4 +1,6 @@
 /inspection
 /create_copy
 /a.out
+/smart_pointers
+/weak_pointer
 .DS_Store
